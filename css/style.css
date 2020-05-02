@@ -8,3 +8,17 @@
     font-family: 'Playfair Display', serif;
 
 }
+
+#page-header {
+    color: rgb(85, 160, 230);
+    border: none;
+}
+
+#page-content {
+    max-width: 950px;
+    margin: 10px auto;
+}
+
+#contactUsForm {
+    padding-left: 20px;
+}
