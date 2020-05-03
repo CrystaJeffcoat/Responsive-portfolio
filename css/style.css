@@ -2,7 +2,9 @@
     font-family: 'Playfair Display', serif;
 
 }
-
+ body {
+     max-width: 100%;
+ }
 
 #enzoNav {
     font-size: 30px;
@@ -17,8 +19,12 @@
 }
 
 #page-content {
-    max-width: 950px;
+    max-width: 100%;
     margin: 10px auto;
+}
+
+.portfolioCard {
+    width: 23rem;
 }
 
 #contactUsForm {
