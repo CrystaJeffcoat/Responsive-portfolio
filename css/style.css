@@ -1,6 +1,8 @@
 * {
     font-family: 'Playfair Display', serif;
+
 }
+
 
 #enzoNav {
     font-size: 30px;
@@ -20,5 +22,5 @@
 }
 
 #contactUsForm {
-    padding-left: 20px;
+    padding: 10px;
 }
